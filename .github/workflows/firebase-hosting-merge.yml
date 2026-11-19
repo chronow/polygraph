@@ -17,4 +17,4 @@ jobs:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_NOTIFICATION_MODULE_79E4C }}
           channelId: live
-          projectId: notification-module-79e4c
+          projectId: project-grch
